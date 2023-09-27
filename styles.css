@@ -55,6 +55,14 @@ h4
   box-shadow:none;
 }
 
+.btn-ty{
+  color: white;
+  background-color: var(--color-primario);
+  border-radius: 30px;
+  padding: 10px 40px;
+  border: 1px solid var(--color-primario);
+  text-transform: uppercase;
+}
 
 .fancybox-bg{
   background-color: var(--color-primario) !important;
