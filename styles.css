@@ -222,7 +222,6 @@ section.galeria{
 section.galeria .item-galeria{
   padding: 0 3px;
   margin-bottom: 5px;
-
 }
 
 section.galeria .item-galeria a img{
@@ -233,7 +232,7 @@ section.galeria .item-galeria a img{
 
 section.galeria .item-galeria a:hover img{
   transform: scale(1.1);
-  position: relative;
+  position: absolute;
   z-index: 999;
 }
 
