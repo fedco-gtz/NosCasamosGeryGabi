@@ -9,7 +9,7 @@ $('.parallax-confirmar').parallax({
 
 // Portada parallax
 $('.parallax-portada').parallax({
-  imageSrc: 'assets/img/'
+  imageSrc: 'img/portada.jph'
 });
 
 // ----------------------
