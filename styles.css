@@ -369,14 +369,13 @@ section.gracias p{
 
 @media (max-width: 760px) {
   .logo-portada img{
-	display:none;
     max-width: 85%;
     margin-top: 0px;
     margin-bottom: 0px;
   }
 section.portada{
   height: 100vh;
-  background-image: url(img/logo-portada1.png);
+  background-image: url(img/portada.jpg);
 }
 .logo-portada{
     text-align: center;
