@@ -369,6 +369,7 @@ section.gracias p{
 
 @media (max-width: 760px) {
   .logo-portada img{
+	display:none;
     max-width: 85%;
     margin-top: 0px;
     margin-bottom: 0px;
